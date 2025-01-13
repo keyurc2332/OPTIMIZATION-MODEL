@@ -73,3 +73,4 @@ Increasing the total production time to allow the inclusion of Product B.
 Reallocating resources to focus more on manufacturing Product A.
 This task demonstrates how optimization techniques can support data-driven decision-making in real-world business scenarios.
 
+![image](https://github.com/user-attachments/assets/df23c486-bc91-4256-87b6-7d39a3f3314c)
